@@ -35,7 +35,7 @@
 <br />
 
 ---
-<img align="left" alt="Abdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdi-Isse&count_private=true&show_icons=true&theme=radical" />
+<img align="left" alt="Abdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdi-Isse&count_private=true&show_icons=true&theme=gotham" />
 
 
 [website]: https://abdi-isse.github.io/typescriptPortfolio/
