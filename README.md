@@ -35,12 +35,8 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Github Stats</summary>
+<img align="left" alt="Abdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdi-Isse&count_private=true&show_icons=true&theme=radical" />
 
-  <img align="left" alt="Abdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdi-Isse&count_private=true" />
-
-</details>
 
 [website]: https://abdi-isse.github.io/typescriptPortfolio/
 [linkedin]: https://www.linkedin.com/in/Abdi-Isse/
