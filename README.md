@@ -36,7 +36,7 @@
 
 ---
 <img align="left" alt="Abdi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdi-Isse&count_private=true&show_icons=true&theme=gotham" />
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi-Isse" />
 
 [website]: https://abdi-isse.github.io/typescriptPortfolio/
 [linkedin]: https://www.linkedin.com/in/Abdi-Isse/
