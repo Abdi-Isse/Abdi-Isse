@@ -36,7 +36,7 @@
 
 ---
 ![Abdi's github stats](https://github-readme-stats.vercel.app/api?username=Abdi-Isse&count_private=true&show_icons=true&hide_border=true)
-![Abdi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi-Isse&layout=compact&hide_border=true)
+![Abdi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi-Isse&layout=compact&hide_border=true&langs_count=6)
 
 [website]: https://abdi-isse.github.io/typescriptPortfolio/
 [linkedin]: https://www.linkedin.com/in/Abdi-Isse/
