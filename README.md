@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdi 👋
 
-## I'm a Software Developer, Computer Science major, Math nerd!
+## I'm a Software Developer, Computer Science & Math major!
 
 - 👨🏾‍💻 I’m currently working as an Associate Software Engineer!
 - 📚 📖  I’m also studying a Bachelor of Science at UWA
