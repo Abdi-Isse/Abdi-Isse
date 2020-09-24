@@ -4,7 +4,6 @@
 
 - 👨🏾‍💻 I’m currently working as an Associate Software Engineer!
 - 📚 📖  I’m also studying a Bachelor of Science at UWA
-- 👨🏾‍🎓 I’m majoring in Computer Science, Mathematics & Statistics
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
